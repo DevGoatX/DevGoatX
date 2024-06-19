@@ -13,13 +13,10 @@ An experienced Full Stack Software Developer who has strengths in giving realist
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
-![DevGoatX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGoatX&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGoatX&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGoatX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGoatX&layout=compact&theme=radical)
 
 
 <!--

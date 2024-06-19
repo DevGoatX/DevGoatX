@@ -19,6 +19,8 @@ An experienced Full Stack Software Developer who has strengths in giving realist
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGoatX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGoatX&layout=compact&theme=radical)
+
 
 <!--
 **DevGoatX/DevGoatX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

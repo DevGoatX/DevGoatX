@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+An experienced Full Stack Software Developer who has strengths in giving realistic promises, being responsive and responsible, and concentrating on business needs and communications.
+
+- :zap: I love math, programming, and books
+- 🌱 I'm addicted to learning and growing every day
+- 🌏 I am currently sharing a little bit of my knowledge with the world
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGoatX)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DevGoatX/DevGoatX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
